@@ -8,6 +8,7 @@ Group:		X11/Applications/Sound
 Source0:	http://decibel.silent-blade.org/uploads/Main/%{name}-%{version}.tar.gz
 # Source0-md5:	98c2db878e302ef79d9c09d7ecc2daac
 URL:		http://decibel.silent-blade.org/
+BuildRequires:	gettext-devel
 Requires:	python-dbus
 Requires:	python-gstreamer
 Requires:	python-mutagen
