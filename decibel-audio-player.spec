@@ -9,6 +9,7 @@ Source0:	http://decibel.silent-blade.org/uploads/Main/%{name}-%{version}.tar.gz
 # Source0-md5:	0f4911b892512860ec2e399c5ee88c70
 URL:		http://decibel.silent-blade.org/
 BuildRequires:	gettext-devel
+BuildRequires:	rpm-pythonprov
 Requires:	python-dbus
 Requires:	python-gstreamer
 Requires:	python-mutagen
