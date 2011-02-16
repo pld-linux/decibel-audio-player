@@ -1,12 +1,12 @@
 Summary:	Decibel Audio Player is a GTK+ audio player
 Summary(hu.UTF-8):	Decibel Audio Player egy GTK+ audió lejátszó
 Name:		decibel-audio-player
-Version:	1.05
+Version:	1.06
 Release:	0.1
 License:	GPL v2
 Group:		X11/Applications/Sound
 Source0:	http://decibel.silent-blade.org/uploads/Main/%{name}-%{version}.tar.gz
-# Source0-md5:	dfebf66d5d6063e99cda9ea6217a6a0b
+# Source0-md5:	60e63607a260a909052f4ba2723df65d
 URL:		http://decibel.silent-blade.org/
 BuildRequires:	gettext-devel
 BuildRequires:	rpm-pythonprov
